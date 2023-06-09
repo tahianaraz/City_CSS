@@ -291,8 +291,8 @@
       ),
       repeating-linear-gradient(
         var(--building-color3),
-        var(--building-color3) 10%,
-        var(--window-color3) 10%,
+        var(--building-color3) 70%,
+        var(--window-color3) 70%,
         var(--window-color3) 30%
       );
   }
